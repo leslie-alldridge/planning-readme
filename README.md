@@ -1,17 +1,18 @@
 # This ReadMe is designed to help others with planning projects
 
 ## Vision
-Building a ReadMe that many users can utilise to plan for success
+
+:cat: Building a ReadMe that many users can utilise to plan for success :cat:
 
 ## Goals (Personal)
-I want to practice writing great ReadMe's
-Helping others with their planning
-Creating a reusable ReadMe template
+* I want to practice writing great ReadMe's
+* Helping others with their planning
+* Creating a reusable ReadMe template
 
 ## User Stories (Users)
-As a user I want to be inspired by a great ReadMe
-Users should be able to copy and paste the ReadMe at any time
-As a user I would like the ability to lodge suggestions and improvements
+1. As a user I want to be inspired by a great ReadMe
+2. Users should be able to copy and paste the ReadMe at any time
+3. As a user I would like the ability to lodge suggestions and improvements
 
 ## Todos 
 - [x] Write the ReadMe
