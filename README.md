@@ -20,3 +20,15 @@
 - [x] Complete my Vision and Goals
 - [ ] Share with others!
 
+## API Documentation
+```
+//Get request (/todos) 
+
+todos:{
+  task: 'wash the car',
+  id: 1,
+  date: '01 Jan 1992',
+  complete: false
+  }
+
+```
