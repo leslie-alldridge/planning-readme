@@ -1,6 +1,6 @@
 # This ReadMe is designed to help others with planning projects
 
-## Vision
+## Vision (Why am I building this?)
 
 :cat: Building a ReadMe that many users can utilise to plan for success :cat:
 
@@ -32,3 +32,21 @@ todos:{
   }
 
 ```
+## Team Composition
+
+Member | Role
+------------ | -------------
+Leslie | Team Lead
+Yuzuki | Designer
+Luke | Engineer
+
+## Reflections & Learnings
+- I enjoyed writing a ReadMe and refreshing myself on some of the markdown applications
+- Users let me know they appreciated the clean format and concise information
+- This readme didn't take long to write, but if I had planned better it would've resulted in less wasted time.
+- I learned that markdown is a great language to learn
+
+## Next Action Steps
+* I will practice emoji usage on github :whale:
+* Writing ReadMe's consistently for my projects
+* Better planning will lead to better success
