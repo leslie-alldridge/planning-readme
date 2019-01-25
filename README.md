@@ -44,7 +44,7 @@ Luke | Engineer
 - I enjoyed writing a ReadMe and refreshing myself on some of the markdown applications
 - Users let me know they appreciated the clean format and concise information
 - This readme didn't take long to write, but if I had planned better it would've resulted in less wasted time.
-- I learned that markdown is a great language to learn
+- I learned that markdown is a great language to learn and a cheatsheet for emoji exists here (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ## Next Action Steps
 * I will practice emoji usage on github :whale:
