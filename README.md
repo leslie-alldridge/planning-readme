@@ -1,4 +1,4 @@
-# This ReadMe is designed to spark thoughts around planning projects
+# This ReadMe is designed to help others with planning projects
 
 ## Vision
 Building a ReadMe that many users can utilise to plan for success
